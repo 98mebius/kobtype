@@ -1,0 +1,7 @@
+使用素材一覧
+
+ゲームスタートSE 自作（再使用可・著作権表記は任意）
+soundeffect-lab.info　効果音ラボ様　decision9.mp3
+tam-music.com　tam-musicfactory様　BGM全般
+
+かな-ローマ字変換・古文単語のcsv　自作　再使用可・著作権表記は任意です
